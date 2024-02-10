@@ -8,3 +8,6 @@ This project is teach how to analyze the music playlist database. You can examin
 
 ## Database and Tools
 * MYSQL Workbench
+
+* Schema- Music Store Database  
+![MusicDatabaseSchema](https://github.com/dubeyynishant/Mysql_Music_store_Analysis/blob/bba39278224bb71754fc8361f5c3457617933d2e/Music_Store_Schema.png)
